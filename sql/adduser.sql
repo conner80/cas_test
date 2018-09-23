@@ -1,0 +1,6 @@
+INSERT INTO USERS
+(`NAME`, `PASS`)
+VALUES(@p1, MD5(CONCAT(@p1,@p2)));
+
+COMMIT;
+

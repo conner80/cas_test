@@ -1,2 +1,2 @@
 # cas_test
-Test work for casexe
+Test work
